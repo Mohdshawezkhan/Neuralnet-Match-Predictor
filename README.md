@@ -8,4 +8,4 @@ This project is a machine learning model designed to predict the winner of boxin
 
 - `data/`: Contains the dataset used for training and testing the model.
 - `notebooks/`: Jupyter notebooks used for data exploration, model development, and analysis.
-- `src/`: Dataset is from kaggle.com
+- `src/`: [Dataset is from kaggle.com](https://www.kaggle.com/datasets/iyadelwy/boxing-matches-dataset-predict-winner/data)
